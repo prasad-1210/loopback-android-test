@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2">
+
+    <item
+        jar="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false" revision="21.1.2" sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/classes-560d5e404d17e8290b4c99bdc1811c343b38e69a.jar" />
+    </item>
+    <item
+        jar="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false" revision="21.1.2" sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-7ad09cefc7a3e70e1d395a68d754cb938b375dff.jar" />
+    </item>
+    <item
+        jar="/home/prasad/mount/PlayGround/AndroidSDK/Linux/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false" revision="21.1.2" sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-8f89c2b28122cf2a796fb211f3f1359e1065cdfa.jar" />
+    </item>
+    <item
+        jar="/home/prasad/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar"
+        jumboMode="false" revision="21.1.2" sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/guava-17.0-075ddac6da150c5713a298cdb44f35f8edf0face.jar" />
+    </item>
+    <item
+        jar="/home/prasad/.gradle/caches/modules-2/files-2.1/org.atteo/evo-inflector/1.2/80ff9507ae75b5d007d44e856dba6953ff856a69/evo-inflector-1.2.jar"
+        jumboMode="false" revision="21.1.2" sha1="80ff9507ae75b5d007d44e856dba6953ff856a69">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/evo-inflector-1.2-4e42caaf406177e92635608bd361c08afe0390a6.jar" />
+    </item>
+    <item
+        jar="/home/prasad/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="false" revision="21.1.2" sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5-a2f9d796dc09c2706d202c3fc3b981d95ad29f03.jar" />
+    </item>
+    <item
+        jar="/home/prasad/.gradle/caches/modules-2/files-2.1/com.strongloop/loopback-sdk-android/1.5.1/2a6775d7f98dc3439f3d540a871b7f9db9cccc56/loopback-sdk-android-1.5.1.jar"
+        jumboMode="false" revision="21.1.2" sha1="2a6775d7f98dc3439f3d540a871b7f9db9cccc56">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/loopback-sdk-android-1.5.1-b726cc6fa21dad89afac35beba6e8957b7677ee5.jar" />
+    </item>
+    <item
+        jar="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false" revision="21.1.2" sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex
+            dex="/home/prasad/Development/workspace/Develoopment/ApiTest/app/build/intermediates/pre-dexed/debug/classes-6e96771560e3e3db1304769ea893f9edc9be473e.jar" />
+    </item>
+
+</items>
